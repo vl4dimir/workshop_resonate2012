@@ -1,3 +1,3 @@
-This is a Processing sketch I did while attending the toxiclibs (http://toxiclibs.org/) workshop at the Resonate 2012 festival in Belgrade.
+This is a Processing sketch I did while attending the toxiclibs (http://toxiclibs.org/) workshop at the Resonate 2012 festival in Belgrade (http://resonate.io/2012/).
 
 It's a 2D lattice represented in 3D space, onto which little red balls are "dropped". The red balls represent tweets read from the data/search.atom file, or directly from Twitter search for "resonate_io". You can play with the parameters at the top of the workshop_resonate2012.pde file to get different results.
